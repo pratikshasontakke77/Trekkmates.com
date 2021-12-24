@@ -1,0 +1,126 @@
+body {
+
+background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; background:url(img11.jpeg); background-size:cover; -o-background-size: cover; -ms-background-size: cover; text-align: center; background-position: center; background-attachment: fixed; font-family: 'Josefin Sans', sans-serif
+
+; }
+
+
+11,112,13,14,h5, h6, input.p.a.select, button { margin:0;
+
+}
+
+ul.label margin:0; padding:0;
+
+}
+
+body a:hover, body a { text-decoration: none; color: #000;
+
+-webkit-transition: 0.5s all; -moz-transition: 0.5s all; -o-transition: 0.5s all; -ms-transition: 0.5s all;
+
+transition: 0.5s all; } .nl-accordion
+
+margin:0 auto; background:grey,
+
+width: 40%; } .nl-accordion label.nl-label {
+
+display: block; font-size: 1.3em; background: #000; border-top: none; color: #000; font-weight: 600; cursor: pointer; text-transform: uppercase; padding: 10px;
+
+letter-spacing: 1px; } .nl-accordion > ul{ list-style:none; margin:0; padding:0; }
+
+.nl-accordion > ul li { overflow:hidden;
+
+
+margin:0 0 1px; } .nl-accordion [type="radio").nl-radio,
+
+.nl-accordion [type="checkbox"].nlcheckbox {
+
+display:none; }
+
+M .nl-accordion > ul li label.nl-label:hover, .nl-accordion [type="radio").nlradio:checked label.nl-label, .nl-accordion [type="checkbox"].nlcheckbox:checked – label.nl-label {
+
+background:#FF7416; color:#FFF; -webkit-transition: all 0.5s; -moz-transition: all 0.5s; -ms-transition: all 0.5s;
+
+-o-transition: all 0.5s;
+
+transition: all 0.5s; }
+
+.nl-accordion (type="radio"].nl-radio:checked label.nl-label, .nl-accordion [type="checkbox"].nl-checkbox:checked – label.nl-label { border-bottom:0;
+
+.nl-accordion > ul li .nl-content {
+
+height:0px; border-top:0; padding:0; border: 1px solid #fff; -webkit-transition: all .3s ease-out; -moz-transition: all .3s ease-out;
+
+transition: all .3s ease-out;
+
+label.nl-label label.nl-label .nl.nl.nl-accordion [type="checkbox"].nl-checkbox:checked content, .nl-accordion [type="radio"].nl-radio:checked content{ height:480px;
+
+border:none;
+
+overflow:auto; } .main hl{
+
+text-align: center; color: #fff;
+
+
+
+
+font-size:3em; text-transform: uppercase; letter-spacing: 4px; margin: 1em 0.7em;
+
+}
+
+.controls { text-align: left; margin-bottom: 2em; font-size:14px;
+
+} .nl-content{
+
+background: url(../images/img11.jpeg)no-repeat center; background-size:cover;
+
+.agileits_tab { padding:3em;
+
+}
+
+} .agileits_tab2 input[type="email"], agileits_tab2 input[type="password"], [
+
+.creditly-wrapper .form-control {
+
+display: block; width: 94.8%; padding: 1em 1em; font-size: 1em; color: #fff; background: rgba(255, 255, 255, 0.39); border: none;
+
+outline: none;
+
+border-bottom: 1px solid #fff;
+
+.agileits_tab2 input[type="email"]:focus, agileits_tab2 input[type="password"]:focus,.creditly-wrapper .form-control:focus border-color: #66afe9; outline: 0;
+
+}
+
+}
+
+.agileits_card_number_grid_right { float: right !important;
+
+.agileits_card_number_grid_left, .agileits_card_number_grid_right float: left; width: 48%;
+
+}
+
+
+} .agileits_tab2.agileits_tab h3 {
+
+font-size: 1.2em; margin-bottom: 2em;
+
+color: #fff; } .security-code, .date{
+
+width: 89% !important; } .agileits_tab2 input[type="submit"] {
+
+position: relative; padding: 7em 3em; letter-spacing: 1px; background:#FF7416; font-size: 1.2em; color: #fff; border: none; outline: none; text-transform: uppercase; cursor: pointer; margin-top: 4em; -webkit-transition: 0.5s all; -moz-transition: 0.5s all; -o-transition: 0.5s all; -ms-transition: 0.5s all;
+
+transition: 0.5s all; } .agileits_tab2 input[type="submit"]:hover{
+
+background:#26bec5; color: #fff; } .agileits_tab2.agileits_tab input[type="email"] {
+
+margin-bottom: 2em; }
+
+::-webkit-input-placeholder{ color:rgba(255, 255, 255, 0.65); }
+
+
+:-moz-placeholder { color: rgba(255, 255, 255, 0.65); }
+
+::-moz-placeholder { color: rgba(255, 255, 255, 0.65); }
+
+:-ms-input-placeholder { color: rgba(255, 255, 255, 0.65); }
